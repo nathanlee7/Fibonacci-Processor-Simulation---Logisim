@@ -50,20 +50,6 @@ The processor uses a typical **Fetch-Decode-Execute** pipeline, with a program c
 
 ---
 
-## 📁 Files
-
-- `Multiplexers.circ` – Logisim circuit file with full processor and Fibonacci implementation
-- `LAB Fibonaccis.pdf` – Assignment description
-- `Storing Data.pdf` – Instruction format reference and pipeline overview
-
----
-
-## 🛠️ Tools Used
-
-- **Logisim Evolution** – for digital circuit design and simulation
-
----
-
 ## 📌 Notes
 
 This project demonstrates foundational understanding of:
